@@ -1,6 +1,5 @@
 # epaper_display-
 Learn to display your images on an e-paper screen with raspberry
-+ Requirements
 
 Hardware:
 
